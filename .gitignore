@@ -8,6 +8,7 @@
 assets/
 save/
 musdb18/
+*.zip
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
